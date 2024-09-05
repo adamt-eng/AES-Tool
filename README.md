@@ -52,7 +52,7 @@ AES Tool is a simple Windows Forms application that allows users to perform AES 
 - Once dependencies are restored, compile the project using:
 
   ```bash
-  dotnet build
+  dotnet build --configuration Release
   ```
 
 ### 5. **Run the Application:**
